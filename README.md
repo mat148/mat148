@@ -7,7 +7,7 @@ The easiest way to get in touch with me: <a href="mailto:mrm1779@gmail.com">mrm1
 ### Connect with me 📭
 - <a href="https://www.linkedin.com/in/mathewmorse/">LinkedIn</a>
 - <a href="https://codepen.io/mat148">Codepen</a>: Place where I pull small issues out of my larger projects to work on or to experiment and understand a piece of code.
-- <a href="https://www.twitch.tv/sillydragon_">Twitch</a>: Occasional streams of solo RPGs, art, and programming.
+<!-- - <a href="https://www.twitch.tv/sillydragon_">Twitch</a>: Occasional streams of solo RPGs, art, and programming. -->
 
 ### Technologies ⚡
 - Javascript, Vue2, Less/Sass/Scss, Nuxt.js
