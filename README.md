@@ -1,5 +1,5 @@
 ## Hey all 👋
-My name is <b>Matthew Morse</b> and I'm a <b>Front-end Developer</b>.  Originally from upstate NY and currently, I'm working as an UX Engineer at <a href="https://www.platformq.com/">@Platform Q</a>.
+My name is <b>Matthew Morse</b> and I'm a <b>Software Engineer</b>.  Originally from upstate NY and currently, I'm working at <a href="https://www.platformq.com/">@Platform Q</a>.
 
 <!--I'm open to new remote opportunities, so if you think I might be a good fit for your team please reach out!
 The easiest way to get in touch with me: <a href="mailto:mrm1779@gmail.com">mrm1779@gmail.com</a>-->
@@ -10,7 +10,7 @@ The easiest way to get in touch with me: <a href="mailto:mrm1779@gmail.com">mrm1
 <!-- - <a href="https://www.twitch.tv/sillydragon_">Twitch</a>: Occasional streams of solo RPGs, art, and programming. -->
 
 ### Technologies ⚡
-- Javascript, Vue2, Less/Sass/Scss, Nuxt.js
+- Javascript, Typescript, Vue2, Vue3, Less/Sass/Scss, Nuxt.js
 - Node.js, MongoDB, API
 
 <!--### Things I'm learning 🧠
